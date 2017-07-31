@@ -1,0 +1,4 @@
+1- User window pops up
+2- User prompted to enter y or n
+3- user asked to y or n again if the input is not y or n
+4- if y or n is entered then program is flowing
